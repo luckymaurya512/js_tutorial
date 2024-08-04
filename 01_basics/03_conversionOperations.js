@@ -15,3 +15,17 @@ console.log(temp) // its not a number
 let a=1   // 1=>true  ,  0=> false
 let b= Boolean(a)   // ""=> false, any other -> true
 console.log(b)
+
+
+// **************************Operations***************************
+
+// console.log(1+2)
+// console.log(1-2)
+// console.log(1*2)
+// console.log(1/2)
+// console.log(1%2)
+
+console.log(1+"2")
+console.log(1+"2" + 3)
+console.log("1"+"2" + 3)
+console.log(1+2 + "3")
