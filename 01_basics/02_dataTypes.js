@@ -8,3 +8,5 @@ let name = "Lucky"
 // symbol => unique
 // Object
  console.log(typeof name)
+ console.log(typeof null)
+ console.log(typeof undefined)
