@@ -6,7 +6,7 @@
 const mySym = Symbol("key1")
 
 
-const JsUser = {
+const JsUser = {        // non singleton object
     name: "lucky",
     "full name": "lucky Choudhary",
     [mySym]: "mykey1",
